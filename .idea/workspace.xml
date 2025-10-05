@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="scheduling" targetName="app-io" />
+      <config projectName="scheduling" targetName="scheduler" />
+      <config projectName="scheduling" targetName="app" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b34b849-4f5d-45ff-8c91-77930cfde19c" name="Changes" comment="teste commit">
+      <change afterPath="$PROJECT_DIR$/scheduler_examples/sjf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler_examples/sjf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0268c3e28d18b54f853b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1fd4761be11fb2194643.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2fb223a22c8a3d7d852a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4ce778c1f6525c940cd3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-154d7d3fb9b7cbae89e4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-34300daa247d830e8a0c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/index-2025-09-24T09-32-12-0052.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/index-2025-09-24T09-33-32-0882.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/.cmake/api/v1/reply/target-scheduler-Debug-27c35474230702f67878.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/app.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/ossim.c" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/ossim.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler_examples/run_apps.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler_examples/run_apps.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marcofernandes2006&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marcofernandes2006/Aula3-2025.git&quot;,
+    &quot;accountId&quot;: &quot;12548463-bf74-47db-a6ac-5538761efdff&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="338krJe2Or9PSaZXb0GG7FNd9qB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.main.c.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.app.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.scheduler.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marco/CLionProjects/Aula3-2025&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\CLionProjects\Aula3-2025" />
+      <recent name="C:\Users\marco\CLionProjects\Aula3-2025\scheduler_examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.scheduler">
+    <configuration name="app-io" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scheduling" TARGET_NAME="app-io" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="scheduling" RUN_TARGET_NAME="app-io">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="Spotify 5" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scheduling" TARGET_NAME="app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="scheduling" RUN_TARGET_NAME="app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scheduler" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="FIFO" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scheduling" TARGET_NAME="scheduler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="scheduling" RUN_TARGET_NAME="scheduler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scheduling" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="main.c" />
+      <option name="toolchainName" value="MinGW" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.main.c" />
+      <item itemvalue="CMake Application.app" />
+      <item itemvalue="CMake Application.app-io" />
+      <item itemvalue="CMake Application.scheduler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.main.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b34b849-4f5d-45ff-8c91-77930cfde19c" name="Changes" comment="" />
+      <created>1758706283820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758706283820</updated>
+      <workItem from="1758706285071" duration="3876000" />
+      <workItem from="1759310720740" duration="5139000" />
+      <workItem from="1759588872953" duration="1351000" />
+      <workItem from="1759590821708" duration="1569000" />
+      <workItem from="1759592517521" duration="236000" />
+      <workItem from="1759592820915" duration="103000" />
+      <workItem from="1759685433217" duration="722000" />
+    </task>
+    <task id="LOCAL-00001" summary="teste commit">
+      <option name="closed" value="true" />
+      <created>1759312121795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759312121795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="teste commit">
+      <option name="closed" value="true" />
+      <created>1759312269642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759312269643</updated>
+    </task>
+    <task id="LOCAL-00003" summary="teste commit">
+      <option name="closed" value="true" />
+      <created>1759312614374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759312614374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste commit" />
+  </component>
+</project>
