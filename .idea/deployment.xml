@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
     <serverData>
-      <paths name="Remote Host (05c92926-7e07-4924-a59e-7085d6e4e1ea)">
+      <paths name="Remote Host (20a0ff15-ce11-480d-a5ca-22b5af044afa)">
         <serverdata>
           <mappings>
-            <mapping deploy="Aula3-2025" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.DGUBJz8UAm/Aula3-2025" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/scheduler_examples/cmake-build-debug" />

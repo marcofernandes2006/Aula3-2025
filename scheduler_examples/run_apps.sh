@@ -1,3 +1,3 @@
-./app outlook 10 &
-./app firefox 15 &
-./app powerpoint 20 &
+./app A 10 &
+./app B 15 &
+./app C 20 &

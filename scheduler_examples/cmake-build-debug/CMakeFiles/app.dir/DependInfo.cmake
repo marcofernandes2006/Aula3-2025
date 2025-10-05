@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/app.c" "CMakeFiles/app.dir/app.c.o" "gcc" "CMakeFiles/app.dir/app.c.o.d"
+  "/home/aluno/Aula3/scheduler_examples/app.c" "CMakeFiles/app.dir/app.c.o" "gcc" "CMakeFiles/app.dir/app.c.o.d"
   )
 
 # Targets to which this target links.

@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/CMakeLists.txt"
+  "/home/aluno/Aula3/scheduler_examples/CMakeLists.txt"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeSystem.cmake"
   "/usr/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in"

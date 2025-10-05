@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/scheduler.dir/ossim.c.o.d"
   "CMakeFiles/scheduler.dir/queue.c.o"
   "CMakeFiles/scheduler.dir/queue.c.o.d"
+  "CMakeFiles/scheduler.dir/sjf.c.o"
+  "CMakeFiles/scheduler.dir/sjf.c.o.d"
   "scheduler"
   "scheduler.pdb"
 )

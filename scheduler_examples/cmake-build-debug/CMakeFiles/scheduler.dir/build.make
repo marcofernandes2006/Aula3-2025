@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples
+CMAKE_SOURCE_DIR = /home/aluno/Aula3/scheduler_examples
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug
+CMAKE_BINARY_DIR = /home/aluno/Aula3/scheduler_examples/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/scheduler.dir/depend.make
@@ -70,52 +70,67 @@ include CMakeFiles/scheduler.dir/progress.make
 include CMakeFiles/scheduler.dir/flags.make
 
 CMakeFiles/scheduler.dir/ossim.c.o: CMakeFiles/scheduler.dir/flags.make
-CMakeFiles/scheduler.dir/ossim.c.o: /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/ossim.c
+CMakeFiles/scheduler.dir/ossim.c.o: /home/aluno/Aula3/scheduler_examples/ossim.c
 CMakeFiles/scheduler.dir/ossim.c.o: CMakeFiles/scheduler.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/scheduler.dir/ossim.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/ossim.c.o -MF CMakeFiles/scheduler.dir/ossim.c.o.d -o CMakeFiles/scheduler.dir/ossim.c.o -c /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/ossim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/scheduler.dir/ossim.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/ossim.c.o -MF CMakeFiles/scheduler.dir/ossim.c.o.d -o CMakeFiles/scheduler.dir/ossim.c.o -c /home/aluno/Aula3/scheduler_examples/ossim.c
 
 CMakeFiles/scheduler.dir/ossim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/scheduler.dir/ossim.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/ossim.c > CMakeFiles/scheduler.dir/ossim.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aluno/Aula3/scheduler_examples/ossim.c > CMakeFiles/scheduler.dir/ossim.c.i
 
 CMakeFiles/scheduler.dir/ossim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/scheduler.dir/ossim.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/ossim.c -o CMakeFiles/scheduler.dir/ossim.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aluno/Aula3/scheduler_examples/ossim.c -o CMakeFiles/scheduler.dir/ossim.c.s
 
 CMakeFiles/scheduler.dir/queue.c.o: CMakeFiles/scheduler.dir/flags.make
-CMakeFiles/scheduler.dir/queue.c.o: /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/queue.c
+CMakeFiles/scheduler.dir/queue.c.o: /home/aluno/Aula3/scheduler_examples/queue.c
 CMakeFiles/scheduler.dir/queue.c.o: CMakeFiles/scheduler.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/scheduler.dir/queue.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/queue.c.o -MF CMakeFiles/scheduler.dir/queue.c.o.d -o CMakeFiles/scheduler.dir/queue.c.o -c /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/scheduler.dir/queue.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/queue.c.o -MF CMakeFiles/scheduler.dir/queue.c.o.d -o CMakeFiles/scheduler.dir/queue.c.o -c /home/aluno/Aula3/scheduler_examples/queue.c
 
 CMakeFiles/scheduler.dir/queue.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/scheduler.dir/queue.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/queue.c > CMakeFiles/scheduler.dir/queue.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aluno/Aula3/scheduler_examples/queue.c > CMakeFiles/scheduler.dir/queue.c.i
 
 CMakeFiles/scheduler.dir/queue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/scheduler.dir/queue.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/queue.c -o CMakeFiles/scheduler.dir/queue.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aluno/Aula3/scheduler_examples/queue.c -o CMakeFiles/scheduler.dir/queue.c.s
 
 CMakeFiles/scheduler.dir/fifo.c.o: CMakeFiles/scheduler.dir/flags.make
-CMakeFiles/scheduler.dir/fifo.c.o: /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/fifo.c
+CMakeFiles/scheduler.dir/fifo.c.o: /home/aluno/Aula3/scheduler_examples/fifo.c
 CMakeFiles/scheduler.dir/fifo.c.o: CMakeFiles/scheduler.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/scheduler.dir/fifo.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/fifo.c.o -MF CMakeFiles/scheduler.dir/fifo.c.o.d -o CMakeFiles/scheduler.dir/fifo.c.o -c /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/fifo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/scheduler.dir/fifo.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/fifo.c.o -MF CMakeFiles/scheduler.dir/fifo.c.o.d -o CMakeFiles/scheduler.dir/fifo.c.o -c /home/aluno/Aula3/scheduler_examples/fifo.c
 
 CMakeFiles/scheduler.dir/fifo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/scheduler.dir/fifo.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/fifo.c > CMakeFiles/scheduler.dir/fifo.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aluno/Aula3/scheduler_examples/fifo.c > CMakeFiles/scheduler.dir/fifo.c.i
 
 CMakeFiles/scheduler.dir/fifo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/scheduler.dir/fifo.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/fifo.c -o CMakeFiles/scheduler.dir/fifo.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aluno/Aula3/scheduler_examples/fifo.c -o CMakeFiles/scheduler.dir/fifo.c.s
+
+CMakeFiles/scheduler.dir/sjf.c.o: CMakeFiles/scheduler.dir/flags.make
+CMakeFiles/scheduler.dir/sjf.c.o: /home/aluno/Aula3/scheduler_examples/sjf.c
+CMakeFiles/scheduler.dir/sjf.c.o: CMakeFiles/scheduler.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/scheduler.dir/sjf.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/scheduler.dir/sjf.c.o -MF CMakeFiles/scheduler.dir/sjf.c.o.d -o CMakeFiles/scheduler.dir/sjf.c.o -c /home/aluno/Aula3/scheduler_examples/sjf.c
+
+CMakeFiles/scheduler.dir/sjf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/scheduler.dir/sjf.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aluno/Aula3/scheduler_examples/sjf.c > CMakeFiles/scheduler.dir/sjf.c.i
+
+CMakeFiles/scheduler.dir/sjf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/scheduler.dir/sjf.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aluno/Aula3/scheduler_examples/sjf.c -o CMakeFiles/scheduler.dir/sjf.c.s
 
 # Object files for target scheduler
 scheduler_OBJECTS = \
 "CMakeFiles/scheduler.dir/ossim.c.o" \
 "CMakeFiles/scheduler.dir/queue.c.o" \
-"CMakeFiles/scheduler.dir/fifo.c.o"
+"CMakeFiles/scheduler.dir/fifo.c.o" \
+"CMakeFiles/scheduler.dir/sjf.c.o"
 
 # External object files for target scheduler
 scheduler_EXTERNAL_OBJECTS =
@@ -123,9 +138,10 @@ scheduler_EXTERNAL_OBJECTS =
 scheduler: CMakeFiles/scheduler.dir/ossim.c.o
 scheduler: CMakeFiles/scheduler.dir/queue.c.o
 scheduler: CMakeFiles/scheduler.dir/fifo.c.o
+scheduler: CMakeFiles/scheduler.dir/sjf.c.o
 scheduler: CMakeFiles/scheduler.dir/build.make
 scheduler: CMakeFiles/scheduler.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable scheduler"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable scheduler"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/scheduler.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +153,6 @@ CMakeFiles/scheduler.dir/clean:
 .PHONY : CMakeFiles/scheduler.dir/clean
 
 CMakeFiles/scheduler.dir/depend:
-	cd /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aluno/Aula3/scheduler_examples/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aluno/Aula3/scheduler_examples /home/aluno/Aula3/scheduler_examples /home/aluno/Aula3/scheduler_examples/cmake-build-debug /home/aluno/Aula3/scheduler_examples/cmake-build-debug /home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/scheduler.dir/depend
 

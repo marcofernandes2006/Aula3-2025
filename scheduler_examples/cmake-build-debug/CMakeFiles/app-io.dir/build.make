@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples
+CMAKE_SOURCE_DIR = /home/aluno/Aula3/scheduler_examples
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug
+CMAKE_BINARY_DIR = /home/aluno/Aula3/scheduler_examples/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/app-io.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/app-io.dir/progress.make
 include CMakeFiles/app-io.dir/flags.make
 
 CMakeFiles/app-io.dir/app-io.c.o: CMakeFiles/app-io.dir/flags.make
-CMakeFiles/app-io.dir/app-io.c.o: /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/app-io.c
+CMakeFiles/app-io.dir/app-io.c.o: /home/aluno/Aula3/scheduler_examples/app-io.c
 CMakeFiles/app-io.dir/app-io.c.o: CMakeFiles/app-io.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/app-io.dir/app-io.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/app-io.dir/app-io.c.o -MF CMakeFiles/app-io.dir/app-io.c.o.d -o CMakeFiles/app-io.dir/app-io.c.o -c /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/app-io.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/app-io.dir/app-io.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/app-io.dir/app-io.c.o -MF CMakeFiles/app-io.dir/app-io.c.o.d -o CMakeFiles/app-io.dir/app-io.c.o -c /home/aluno/Aula3/scheduler_examples/app-io.c
 
 CMakeFiles/app-io.dir/app-io.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app-io.dir/app-io.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/app-io.c > CMakeFiles/app-io.dir/app-io.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aluno/Aula3/scheduler_examples/app-io.c > CMakeFiles/app-io.dir/app-io.c.i
 
 CMakeFiles/app-io.dir/app-io.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app-io.dir/app-io.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/app-io.c -o CMakeFiles/app-io.dir/app-io.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aluno/Aula3/scheduler_examples/app-io.c -o CMakeFiles/app-io.dir/app-io.c.s
 
 CMakeFiles/app-io.dir/burst_queue.c.o: CMakeFiles/app-io.dir/flags.make
-CMakeFiles/app-io.dir/burst_queue.c.o: /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/burst_queue.c
+CMakeFiles/app-io.dir/burst_queue.c.o: /home/aluno/Aula3/scheduler_examples/burst_queue.c
 CMakeFiles/app-io.dir/burst_queue.c.o: CMakeFiles/app-io.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/app-io.dir/burst_queue.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/app-io.dir/burst_queue.c.o -MF CMakeFiles/app-io.dir/burst_queue.c.o.d -o CMakeFiles/app-io.dir/burst_queue.c.o -c /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/burst_queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/app-io.dir/burst_queue.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/app-io.dir/burst_queue.c.o -MF CMakeFiles/app-io.dir/burst_queue.c.o.d -o CMakeFiles/app-io.dir/burst_queue.c.o -c /home/aluno/Aula3/scheduler_examples/burst_queue.c
 
 CMakeFiles/app-io.dir/burst_queue.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app-io.dir/burst_queue.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/burst_queue.c > CMakeFiles/app-io.dir/burst_queue.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aluno/Aula3/scheduler_examples/burst_queue.c > CMakeFiles/app-io.dir/burst_queue.c.i
 
 CMakeFiles/app-io.dir/burst_queue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app-io.dir/burst_queue.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/burst_queue.c -o CMakeFiles/app-io.dir/burst_queue.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aluno/Aula3/scheduler_examples/burst_queue.c -o CMakeFiles/app-io.dir/burst_queue.c.s
 
 # Object files for target app-io
 app__io_OBJECTS = \
@@ -109,7 +109,7 @@ app-io: CMakeFiles/app-io.dir/app-io.c.o
 app-io: CMakeFiles/app-io.dir/burst_queue.c.o
 app-io: CMakeFiles/app-io.dir/build.make
 app-io: CMakeFiles/app-io.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable app-io"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable app-io"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/app-io.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/app-io.dir/clean:
 .PHONY : CMakeFiles/app-io.dir/clean
 
 CMakeFiles/app-io.dir/depend:
-	cd /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug /tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aluno/Aula3/scheduler_examples/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aluno/Aula3/scheduler_examples /home/aluno/Aula3/scheduler_examples /home/aluno/Aula3/scheduler_examples/cmake-build-debug /home/aluno/Aula3/scheduler_examples/cmake-build-debug /home/aluno/Aula3/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/app-io.dir/depend
 

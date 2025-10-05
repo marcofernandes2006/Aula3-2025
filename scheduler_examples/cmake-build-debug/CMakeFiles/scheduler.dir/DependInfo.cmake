@@ -8,9 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/fifo.c" "CMakeFiles/scheduler.dir/fifo.c.o" "gcc" "CMakeFiles/scheduler.dir/fifo.c.o.d"
-  "/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/ossim.c" "CMakeFiles/scheduler.dir/ossim.c.o" "gcc" "CMakeFiles/scheduler.dir/ossim.c.o.d"
-  "/tmp/tmp.kNiVYAq4uF/Aula3-2025/scheduler_examples/queue.c" "CMakeFiles/scheduler.dir/queue.c.o" "gcc" "CMakeFiles/scheduler.dir/queue.c.o.d"
+  "/home/aluno/Aula3/scheduler_examples/fifo.c" "CMakeFiles/scheduler.dir/fifo.c.o" "gcc" "CMakeFiles/scheduler.dir/fifo.c.o.d"
+  "/home/aluno/Aula3/scheduler_examples/ossim.c" "CMakeFiles/scheduler.dir/ossim.c.o" "gcc" "CMakeFiles/scheduler.dir/ossim.c.o.d"
+  "/home/aluno/Aula3/scheduler_examples/queue.c" "CMakeFiles/scheduler.dir/queue.c.o" "gcc" "CMakeFiles/scheduler.dir/queue.c.o.d"
+  "/home/aluno/Aula3/scheduler_examples/sjf.c" "CMakeFiles/scheduler.dir/sjf.c.o" "gcc" "CMakeFiles/scheduler.dir/sjf.c.o.d"
   )
 
 # Targets to which this target links.
